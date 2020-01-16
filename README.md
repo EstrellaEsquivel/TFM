@@ -2,8 +2,8 @@ MÁSTER EN BIOINFORMÁTICA APLICADA A MEDICINA PERSONALIZADA Y SALUD (2018-2019)
 
 TITULO: Reconstrucción de modelos específicos de contexto en líneas celulares de cáncer para identificar genes esenciales metabólicos y predecir nuevas dianas terapéuticas.
 
-ANÁLISIS PRELIMINARES
-Se debe seguir el suguiente orden:
+#ANÁLISIS PRELIMINARES
+#Se debe seguir el suguiente orden:
    -Etiquetado
    -Filtrado_datos_Y_analisis_estadistico
    -Solo_para_genes_metabolicos
