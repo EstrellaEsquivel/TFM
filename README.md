@@ -1,2 +1,2 @@
 # TFM
-Differents strategies of thresholding to reconstruct an ensemble a cell lines specific models to predict a essential genes
+Reconstruction of specific context models in tumor cell lines by integrating gene expression data using different threshold strategies.
