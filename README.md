@@ -7,6 +7,7 @@ Se debe seguir el suguiente orden:
    -Etiquetado
    -Filtrado_datos_Y_analisis_estadistico
    -Solo_para_genes_metabolicos
+   -GPRs
    -Analisis_genes
    -Grupos_genes
 
